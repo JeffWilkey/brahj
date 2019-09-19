@@ -1,0 +1,14 @@
+.navbar {
+  height: 80px;
+  .container {
+    transition: .2s;
+  }
+}
+
+.nav-item.nav-link {
+  font-family: 'Josefin Sans';
+  &:hover {
+    transition: .2s;
+  }
+}
+
